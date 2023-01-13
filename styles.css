@@ -16,7 +16,6 @@
     outline: 0;
     width: 55px;
     height: 55px;
-    border-radius: 50px;
     background: transparent;
     font-size: 20px;
     color: #ffff;
@@ -36,12 +35,15 @@ form .display input{
 }
 form input.operator{
     background-color: #ff9500;
+    border-radius: 50%;
 }
 form input.top{
     background-color: #969693;
+    border-radius: 50%;
 }
 form input.numbers{
     background-color: #505050;
+    border-radius: 50%;
 }
 h1{
     color: #8E0505;
